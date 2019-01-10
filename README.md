@@ -2,4 +2,4 @@ This adds the base and head branches to the scrolling right side of the screen o
 
 Download link: https://addons.mozilla.org/en-US/firefox/addon/github-branch-scroll/
 
-!(example)[https://i.imgur.com/zLKrScN.png]
+![example](https://i.imgur.com/zLKrScN.png)
